@@ -1,0 +1,14 @@
+# macOS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Databricks
+.dbc
+.databricks/
